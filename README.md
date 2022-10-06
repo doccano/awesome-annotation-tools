@@ -24,6 +24,7 @@ Caution: This is based on my survey about a year ago. I will update it asap.
 | [Snorkel Flow](https://snorkel.ai/)                                                                           | :heavy_check_mark: |         ?          |         ?          |         ?          |         ?          | :heavy_check_mark: |
 | [Taggle](https://www.nlp.town/taggle/)                                                                        | :heavy_check_mark: | :heavy_check_mark: |         ?          | :heavy_check_mark: |         ?          | :heavy_check_mark: |
 | [UBIAI](https://ubiai.tools/)                                                                        | :heavy_check_mark: | :heavy_check_mark: |         :heavy_check_mark:          | :heavy_check_mark: |         :heavy_check_mark:          | ? |
+| [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)                                                                       | :heavy_check_mark: | :heavy_check_mark: |         :heavy_check_mark:          | :heavy_check_mark: |         :heavy_check_mark:          | :heavy_check_mark:  |
 
 ### Supporting Active Learning or Auto Labeling
 
@@ -42,7 +43,8 @@ Caution: This is based on my survey about a year ago. I will update it asap.
 | Humanloop                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |         ?          |
 | Snorkel Flow             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |         ?          |
 | Taggle                   | :heavy_check_mark: | :heavy_check_mark: |         ?          |         ?          |
-| UBIAI                   | ? | :heavy_check_mark: |         :heavy_check_mark:          |         ?          |
+| UBIAI                   | ? | :heavy_check_mark: |         :heavy_check_mark:           |         ?          |
+| Annotation Lab          | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 
 ### Price and other
 
@@ -61,7 +63,8 @@ Caution: This is based on my survey about a year ago. I will update it asap.
 | Humanloop                | \$0 - $999            |         ?          | :heavy_check_mark: | :heavy_check_mark: |                    |                                              |
 | Snorkel Flow             | ?                     |         ?          |         ?          | :heavy_check_mark: |                    |                                              |
 | Taggle                   | ?                     |         ?          |         ?          | :heavy_check_mark: |                    |
-| UBIAI                  | \$0 - $1000                     |         :heavy_check_mark:          |         ?          | :heavy_check_mark: |                    |  IAA|
+| UBIAI                  | \$0 - $1000                     |         :heavy_check_mark:      |         ?          | :heavy_check_mark: |                    |  IAA|
+| Annotation Lab         | Free                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | Analytics & IAA|
 
 ## Contribution
 
